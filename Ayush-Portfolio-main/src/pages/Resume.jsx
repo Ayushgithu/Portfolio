@@ -138,7 +138,7 @@ export default function Resume() {
           <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: 1.8 }}>
 
              
-            <li>1️⃣ CodeArena Multiplayer Battle</li>
+            <li>1️⃣ CodeArena Multiplayer Coding Battle</li>
             <li>2️⃣ Medi-Food Canteen System</li>
             <li>3️⃣ HR Management Portal</li>
             <li>4️⃣ Ecommerce Shopping</li> 
