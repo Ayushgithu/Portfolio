@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 import "./Skills.css";
 
 const SKILLS = [
-  { name: "Python", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
-  // { name: "C", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" },
+  { name: "TailwindCss", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" },
+  { name: "SpringBoot", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"},
   { name: "C++", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" },
   { name: "Java", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" },
   { name: "HTML", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
@@ -18,10 +18,10 @@ const SKILLS = [
 
 const ROWS = [
   [
-    { title: "Programming Languages", items: ["Python", "C", "C++", "Java", ] },
-    { title: "Web Technologies", items: ["HTML", "CSS", "JavaScript", "React"] },
-    { title: "Databases & Tools", items: ["MySQL", "MongoDB", "Git"] },
-    { title: "Frameworks & Libraries", items: ["Spring-Boot"] },
+    { title: "Programming Languages", items: [ "Java", "C++", ] },
+    { title: "Web Technologies", items: ["HTML", "CSS", "JavaScript",] },
+    { title: "Databases & Tools", items: ["MySQL", "MongoDB", "Git", "GitHub", "IntelliJ IDEA", "VS Code", "Spring Initializer",] },
+    { title: "Frameworks & Libraries", items: ["Spring-Boot","ReactJS","TailwindCss"] },
   ],
   [
     {

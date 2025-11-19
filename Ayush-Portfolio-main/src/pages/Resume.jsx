@@ -56,13 +56,13 @@ export default function Resume() {
               👨‍💻 Ayush Gupta
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
-              Graduated B.Tech — Computer Science & Engineering | Medi-Caps University
+              B.Tech — Computer Science & Engineering | Medi-Caps University
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
               📍 Harpalpur, Madhya Pradesh
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
-              ✉️ ayushguptajan22@gmail.com | 📞 +91 7415557442
+              ✉️ ayushguptajan22@gmail.com | 📞 +91-7415557442
             </p>
           </div>
 
@@ -107,7 +107,7 @@ export default function Resume() {
             <li>
               <strong>B.Tech Computer Science & Engineering</strong> — Medi-Caps Unviersity
               , 2021–2024 <br />
-              <span style={{ color: "#aaa" }}>GPA: 8.4</span>
+              <span style={{ color: "#aaa" }}>CGPA: 8.41</span>
             </li>
             <li style={{ marginTop: 8 }}>
               <strong>12th Board — Vivekanand High Secondary School</strong> (M.P.
@@ -136,10 +136,12 @@ export default function Resume() {
         >
           <h4 style={{ fontSize: 20, color: "#00b4ff", marginBottom: 12 }}>💼 Projects</h4>
           <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: 1.8 }}>
-            <li>1️⃣ HR Management Portal</li>
+
+             
+            <li>1️⃣ CodeArena Multiplayer Battle</li>
             <li>2️⃣ Medi-Food Canteen System</li>
-            <li>3️⃣ Smart Car Parking System</li>
-            <li>4️⃣ Amazon Static Clone</li>
+            <li>3️⃣ HR Management Portal</li>
+            <li>4️⃣ Ecommerce Shopping</li> 
           </ul>
         </motion.div>
 
@@ -153,15 +155,18 @@ export default function Resume() {
           <h4 style={{ fontSize: 20, color: "#00b4ff", marginBottom: 12 }}>⚙️ Skills</h4>
           <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
             {[
-              "Python",
-              "C",
               "C++",
               "Java",
-              "Spring-BOot",
-              "React",
+              "Spring-Boot",
+              "HTML",
+              "CSS",
+              "TailwindCSS",
+              "JavaScript",
+              "ReactJS",
               "MySQL",
               "MongoDB",
               "Git",
+              "GitHub",
               "Problem Solving",
               "Teamwork",
               "Adaptability",
@@ -195,9 +200,11 @@ export default function Resume() {
           }}
         >
           {[
-            { name: "🏆 LeetCode", link: "https://leetcode.com/u/ayush_2803/" },
-            { name: "💻 GitHub", link: "https://github.com/ayush2803" },
-            { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/ayush-gupta-07717b293/" },
+            { name: "🏆 LeetCode", link: "https://leetcode.com/u/ayush_741555/" },
+            { name: "🚀 NeetCode", link: "https://neetcode.io/practice " },
+            { name: "👨‍💻 InterviewBit", link: "https://www.interviewbit.com/profile/ayush-gupta_372/" },
+            { name: "💻 GitHub", link: "https://github.com/Ayushgithu/" },
+            { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/ayush-gupta-b986a0225" },
           ].map((site) => (
             <motion.a
               key={site.name}
@@ -243,7 +250,7 @@ export default function Resume() {
 
         {/* Download Button */}
         <motion.a
-          href="/resume.pdf"
+          href="/ayush_resume.pdf"
           download
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}

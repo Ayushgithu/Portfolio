@@ -9,10 +9,10 @@ const PROJECTS = [
     ss: '/',
     tech: ['SpringBoot', 'HTML', 'TailwindCss', 'JavaScript', 'MySql', 'WebSocket', 'PistonApi'],
     live: '#',
-    code: 'https://github.com/kunjdesai/mammo-detector'
+    code: 'https://github.com/Anshul1913/Real-Time-Collaborative-Coding-and-Communication-Platform.git'
   },
   {
-  title: '🧠 Mental Health Analyzer',
+  title: 'Ecommerce Website',
   desc: 'NLP-based system that analyzes user text to detect signs of anxiety, stress, and depression using sentiment analysis and transformer models.',
   ss: '/mentalhealth.jpg',
   tech: ['Python', 'Transformers', 'NLTK', 'scikit-learn'],
