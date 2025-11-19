@@ -15,7 +15,7 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 * 🎨 **Modern UI/UX** with black-based aesthetic theme
 * ⚡ Smooth **Framer Motion** animations
 * 💼 **Projects, Resume, and Contact sections**
-* 🧠 Tech-focused portfolio highlighting AI/ML projects
+* 🧠 Tech-focused portfolio highlighting projects
 * 📨 Functional contact form powered by **EmailJS**
 * 🧩 Responsive design for all screen sizes
 
