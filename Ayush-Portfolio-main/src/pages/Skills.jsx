@@ -4,8 +4,10 @@ import "./Skills.css";
 
 const SKILLS = [
   { name: "TailwindCss", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" },
+  { name: "BootStrap", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" },
   { name: "SpringBoot", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"},
   { name: "C++", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" },
+  { name: "C#", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" },
   { name: "Java", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" },
   { name: "HTML", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
   { name: "CSS", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" },
@@ -14,14 +16,19 @@ const SKILLS = [
   { name: "MySQL", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
   { name: "MongoDB", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
   { name: "Git", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
+  { name: "GitHub", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
+  { name: "FramerMotion", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" },
+  { name: "NodeJS", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
+
+
 ];
 
 const ROWS = [
   [
-    { title: "Programming Languages", items: [ "Java", "C++", ] },
+    { title: "Programming Languages", items: [ "Java", "C++", "c#"] },
     { title: "Web Technologies", items: ["HTML", "CSS", "JavaScript",] },
     { title: "Databases & Tools", items: ["MySQL", "MongoDB", "Git", "GitHub", "IntelliJ IDEA", "VS Code", "Spring Initializer",] },
-    { title: "Frameworks & Libraries", items: ["Spring-Boot","ReactJS","TailwindCss"] },
+    { title: "Frameworks & Libraries", items: ["Spring-Boot","ReactJS", "NodeJS", "ExpressJS", "TailwindCSS", "BootStrap", "Framer Motion",] },
   ],
   [
     {

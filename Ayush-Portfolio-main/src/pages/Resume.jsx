@@ -59,7 +59,7 @@ export default function Resume() {
               B.Tech — Computer Science & Engineering | Medi-Caps University
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
-              📍 Harpalpur, Madhya Pradesh
+              📍 Pune, Maharastra
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
               ✉️ ayushguptajan22@gmail.com | 📞 +91-7415557442
@@ -139,9 +139,9 @@ export default function Resume() {
 
              
             <li>1️⃣ CodeArena Multiplayer Coding Battle</li>
-            <li>4️⃣ Ecom Store Shopping Website</li> 
-            <li>2️⃣ Medi-Food Canteen System</li>
-            <li>3️⃣ HR Management Portal</li>
+            <li>2️⃣ Ecom Store Shopping Website</li> 
+            <li>3️⃣ Medi-Food Canteen System</li>
+            <li>4️⃣ HR Management Portal</li>
             
           </ul>
         </motion.div>

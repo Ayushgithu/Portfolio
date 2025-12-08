@@ -174,7 +174,7 @@ export default function Home() {
               maxWidth: '95%',
             }}
           >
-          Computer Science Engineer | Java FullStack  | Backend Developer
+          Java FullStack  | Backend Developer | Frontend Developer
           </p>
 
           {/* --- Profession Tags --- */}
@@ -226,7 +226,7 @@ export default function Home() {
           >
             {[ 
               { label: '📍 Location', value: 'Pune, Maharastra, India' },
-              { label: '💼 Expertise', value: 'Java fullStack, Problem solving' },
+              { label: '💼 Expertise', value: 'Java fullStack, Problem Solving' },
               { label: '📧 Contact', value: 'ayushguptajan22@gmail.com' },
             ].map((info, i) => (
               <motion.div
